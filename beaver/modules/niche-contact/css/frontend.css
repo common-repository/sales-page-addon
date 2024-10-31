@@ -1,0 +1,5 @@
+body .spa-form-wrapper .wpcf7 input:not([type="submit"]):focus, 
+body .spa-form-wrapper .wpcf7 select:focus, .wpcf7 textarea:focus {
+  background: inherit;
+  border-color: inherit;
+}

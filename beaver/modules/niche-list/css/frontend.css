@@ -1,0 +1,27 @@
+/*List*/
+.niche-list-wrap {
+  text-align: center;
+}
+ul.niche-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: block;
+  text-align: left;
+}
+ul.niche-list li {
+  position: relative;
+  font-size: 24px;
+  color: #555555;
+  padding: 0 0 0 35px;
+  margin: 0;
+}
+ul.niche-list li img,
+ul.niche-list li i {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+ul.niche-list li img {
+  width: 24px;
+}

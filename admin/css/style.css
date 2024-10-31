@@ -1,0 +1,203 @@
+.sales-addon-tem-action span {
+	line-height: 28px;
+	height: auto;
+}
+.sales-addon-filter span {
+	margin-top: 2px;
+	font-size: 23px;
+}
+.sales-addon-filter-form, .sales-addon-search-form {
+	float: left;
+	margin-left: 10px;
+}
+.wp-core-ui .sales-addon-template-galleries .button, 
+.wp-core-ui .sales-addon-template-galleries .button-secondary {
+	vertical-align: middle;
+}
+.sales-addon-filter input[type="radio"] {
+	display: none;
+}
+.sales-addon-filter input[type="radio"] ~ label {
+	
+}
+.sales-addon-filter input[type="radio"]:checked ~ label {
+	background: #007cba;
+	border-color: #007cba;
+	color: #fff;
+}
+.sales-addon-themes-wrapper {
+	position: relative;
+	z-index: 1;
+}
+.sales-addon-themes-wrapper .sales-addon-theme-preloader {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	content: '';
+	background: rgba(255, 255, 255, 1.0);
+	z-index: 9;
+	text-align: center;
+	display: none;
+}
+.sales-addon-themes-wrapper .sales-addon-theme-preloader.active {
+	display: block;
+}
+.sales-addon-themes-wrapper .sales-addon-theme-preloader .spinner {
+	float: none;
+	margin-top: 50px;
+	visibility: visible;
+}
+a.button.button-primary.up-btn {
+  background: green;
+  border-color: green;
+}
+a.button.button-primary.up-btn:focus {
+  box-shadow: 0 0 0 1px #fff, 0 0 0 3px green;
+}
+.button-full {
+	width: 100%;
+}
+.theme-premium-button {
+	text-align: center;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	right: 0;
+}
+.theme-premium-button a.button.button-primary.up-btn {
+	border-radius: 0;
+	text-transform: capitalize;
+}
+.theme-premium-button a.button.button-danger.up-btn {
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	text-transform: capitalize;
+}
+.theme-browser .theme {
+	margin-bottom: 5%;
+}
+@media(max-width: 1400px){
+	.theme-browser .theme {
+		margin-bottom: 10%;
+	}
+}
+@media(max-width: 767px){
+	.theme-browser .theme {
+		margin-bottom: 60px;
+	}
+	.sales-addon-filter-form, .sales-addon-search-form {
+		float: none;
+		margin-left: 0px;
+		margin-bottom: 10px;
+	}
+	.sales-addon-filter-cat {
+		width: 100%;
+	}
+	.sales-addon-filter span {
+		margin-top: 7px;
+	}
+	.sales-addon-tem-action span {
+		line-height: 37px;
+	}
+}
+
+.sales-addon-extend-fields {
+    overflow: hidden;
+    padding: 5px 20px 5px 162px !important;
+    margin: 9px 0;
+}
+.sales-addon-extend-fields-wrap {
+    position: relative;
+    width: 90%;
+    float: left;
+    margin: 0;
+}
+.sales-addon-extend-input-group-title {
+    float: left;
+    width: 150px;
+    padding: 0;
+    margin: 0 0 0 -150px;
+}
+@media(max-width: 1280px) {
+    .sales-addon-extend-fields-wrap {
+        width: 100%;
+    }    
+}
+@media(max-width: 500px) {
+    .sales-addon-extend-fields {
+        padding: 5px 20px !important;
+    }
+    .sales-addon-extend-input-group-title {
+        float: none;
+        width: auto;
+        display: block;
+        margin: 0;
+    }  
+}
+.sales-addon-extend-fields-wrap .widget.open .toggle-indicator:before {
+    content: "\f142" !important;
+}
+.sales-addon-extend-fields-wrap .widget.close .toggle-indicator:before {
+    content: "\f140" !important;
+}
+.sales-addon-extend-fields-wrap .widget-inside {
+    padding: 0px 10px 20px
+}
+.sales-addon-extend-fields-wrap .button {
+    margin-top: 10px;
+}
+.sales-addon-extend-fields-wrap input {
+		border: 1px solid #ddd;
+	  box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+	  background-color: #fff;
+	  color: #32373c;
+	  outline: 0;
+	  transition: 50ms border-color ease-in-out;
+}
+.woocommerce_options_panel .sales-addon-extend-fields-wrap label {
+	  width: 100%;
+	  margin: 0;
+}
+.woocommerce_options_panel .sales-addon-extend-fields-wrap input[type="text"] {
+  	width: 100%;
+}
+.button-danger {
+		color: red !important
+}
+#woocommerce-product-data ul.wc-tabs li.sales-addon-extend-tab_tab a::before {
+  	content: "";
+}
+.p-0	{
+	padding: 0;
+	margin: 0;
+}
+.m-0	{
+	padding: 0;
+	margin: 0;
+}
+.mb-10 {
+	margin-bottom: 10px;
+}
+.pb-10 {
+	padding-bottom: 10px;
+}
+.chosen-container {
+	width: 100% !important;
+}
+.nich-field-wrapper {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.nich-field-wrapper label {
+	display: block;
+}
+.nich-group-settings {
+	border: 1px solid #eee;
+	background: #f6f6f6;
+	padding: 10px;
+}
+.available-builders {
+	display: inline-block;
+}

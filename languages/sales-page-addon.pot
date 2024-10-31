@@ -1,0 +1,3180 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sales Page Addon - Elementor & Beaver Builder\n"
+"POT-Creation-Date: 2023-09-28 15:48+0530\n"
+"PO-Revision-Date: 2023-09-28 15:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sales-page-addon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/partials/admin-menu-items/templates.php:10
+msgid "Sales Template"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:16
+msgid "Select Builder"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:32
+msgid "Filters"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:36
+msgid "All"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:40
+msgid "Free"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:44
+msgid "Pro"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:48
+msgid "Category"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:49
+msgid "E-Book"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:50
+msgid "Webinar"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:51
+msgid "SEO"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:52
+msgid "Health"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:53
+msgid "Course"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:54
+msgid "Financial"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:55
+msgid "Crypto"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:56
+msgid "Stock Broker"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:57
+msgid "Construction"
+msgstr ""
+
+#: admin/partials/admin-menu-items/templates.php:61
+msgid "Search templates..."
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:32
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:39
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:28
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:32
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:39
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:28
+#: beaver/modules/niche-icon-box/niche-icon-box.php:133
+#: beaver/modules/niche-icon-box/niche-icon-box.php:294
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:52
+#: beaver/modules/niche-offer/niche-offer.php:39
+#: beaver/modules/niche-offer/niche-offer.php:68
+#: beaver/modules/niche-pricing/niche-pricing.php:83
+#: beaver/modules/niche-pricing/niche-pricing.php:136
+#: beaver/modules/niche-process/niche-process.php:102
+#: beaver/modules/niche-process/niche-process.php:254
+#: beaver/modules/niche-service/niche-service.php:77
+#: beaver/modules/niche-service/niche-service.php:184
+#: beaver/modules/niche-title/niche-title.php:13
+#: beaver/modules/niche-title/niche-title.php:30
+#: elementor/spa-admin-sub-page.php:17
+#: elementor/widgets/basic/salespage-title.php:52
+#: elementor/widgets/pro/salespage-accordion.php:105
+#: elementor/widgets/pro/salespage-accordion.php:397
+#: elementor/widgets/pro/salespage-icon-box.php:566
+#: elementor/widgets/pro/salespage-image-box.php:465
+#: elementor/widgets/pro/salespage-number-box.php:497
+#: elementor/widgets/pro/salespage-portfolio-slider.php:61
+#: elementor/widgets/pro/salespage-pricing-table.php:59
+#: elementor/widgets/pro/salespage-pricing-table.php:185
+#: elementor/widgets/pro/salespage-pricing-table.php:399
+#: elementor/widgets/pro/salespage-testimonial-slider.php:829
+#: elementor/widgets/pro/salespage-testimonial.php:165
+#: elementor/widgets/pro/salespage-testimonial.php:536
+#: elementor/widgets/pro/salespage-video-gallery.php:61
+msgid "Title"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:48
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:48
+msgid "Select products"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:63
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:56
+msgid "Select checkout page"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:82
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:79
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:93
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:90
+msgid "Styles"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:86
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:83
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:97
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:94
+msgid "Overall Page Style"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:95
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:92
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:106
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:103
+msgid "Titles"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:105
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:102
+#: beaver/modules/niche-accordion/niche-accordion.php:163
+#: beaver/modules/niche-accordion/niche-accordion.php:424
+msgid "Label"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:115
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:112
+msgid "Input/Textarea/Select"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:140
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:137
+#: beaver/modules/niche-button/niche-button.php:13
+#: beaver/modules/niche-contact/niche-contact.php:166
+#: beaver/modules/niche-pricing/niche-pricing.php:286
+#: elementor/spa-admin-sub-page.php:64
+#: elementor/widgets/pro/salespage-button.php:114
+#: elementor/widgets/pro/salespage-button.php:317
+#: elementor/widgets/pro/salespage-pricing-table.php:577
+msgid "Button"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-add-new-rule.php:164
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:161
+msgid "Checkout Fields"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:37
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:37
+msgid "Select product"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-checkout-all-rules.php:215
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:116
+msgid "Remove"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-settings.php:74
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-settings.php:80
+msgid "Checkout"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-settings.php:81
+msgid "Thank You"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-settings.php:113
+#: admin/partials/admin-menu-items/woo-settings.php:132
+msgid "All Rules"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-settings.php:114
+#: admin/partials/admin-menu-items/woo-settings.php:133
+msgid "Add New Rule"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-settings.php:148
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:63
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:56
+msgid "Select thankyou page"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:67
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:60
+msgid "Select a page"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:68
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:61
+msgid "External Link"
+msgstr ""
+
+#: admin/partials/admin-menu-items/woo-thank-you-add-new-rule.php:82
+#: admin/partials/admin-menu-items/woo-thank-you-all-rules.php:78
+msgid "Set external page"
+msgstr ""
+
+#: admin/partials/cpt.php:10 admin/partials/cpt.php:21
+msgid "Popups"
+msgstr ""
+
+#: admin/partials/cpt.php:11
+msgid "Popup"
+msgstr ""
+
+#: admin/partials/cpt.php:12
+msgctxt "sales-page-addon"
+msgid "Add New Popup"
+msgstr ""
+
+#: admin/partials/cpt.php:13
+msgid "Add New Popup"
+msgstr ""
+
+#: admin/partials/cpt.php:14
+msgid "Edit Popup"
+msgstr ""
+
+#: admin/partials/cpt.php:15
+msgid "New Popup"
+msgstr ""
+
+#: admin/partials/cpt.php:16
+msgid "View Popup"
+msgstr ""
+
+#: admin/partials/cpt.php:17
+msgid "Search Popups"
+msgstr ""
+
+#: admin/partials/cpt.php:18
+msgid "No Popups found"
+msgstr ""
+
+#: admin/partials/cpt.php:19
+msgid "No Popups found in Trash"
+msgstr ""
+
+#: admin/partials/cpt.php:20
+msgid "Parent Popup:"
+msgstr ""
+
+#: admin/partials/cpt.php:58 admin/partials/cpt.php:71
+#: beaver/modules/niche-button/niche-button.php:522
+msgid "Enabled"
+msgstr ""
+
+#: admin/partials/cpt.php:59
+msgid "CSS Class"
+msgstr ""
+
+#: admin/partials/cpt.php:60
+msgid "Creation Date"
+msgstr ""
+
+#: admin/partials/cpt.php:71 beaver/modules/niche-button/niche-button.php:521
+msgid "Disabled"
+msgstr ""
+
+#: admin/partials/cpt.php:73
+msgid "Undefined"
+msgstr ""
+
+#: admin/partials/cpt.php:94 admin/partials/cpt.php:105
+#: beaver/modules/niche-testimonial/niche-testimonial.php:29
+#: elementor/widgets/pro/salespage-testimonial-slider.php:97
+#: elementor/widgets/pro/salespage-testimonial-slider.php:184
+msgid "Testimonials"
+msgstr ""
+
+#: admin/partials/cpt.php:95
+#: beaver/modules/niche-testimonial/niche-testimonial.php:12
+#: elementor/spa-admin-sub-page.php:72
+#: elementor/widgets/pro/salespage-testimonial.php:97
+msgid "Testimonial"
+msgstr ""
+
+#: admin/partials/cpt.php:96
+msgctxt "sales-page-addon"
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/partials/cpt.php:97
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/partials/cpt.php:98
+msgid "Edit Testimonial"
+msgstr ""
+
+#: admin/partials/cpt.php:99
+msgid "New Testimonial"
+msgstr ""
+
+#: admin/partials/cpt.php:100
+msgid "View Testimonial"
+msgstr ""
+
+#: admin/partials/cpt.php:101
+msgid "Search Testimonials"
+msgstr ""
+
+#: admin/partials/cpt.php:102
+msgid "No Testimonials found"
+msgstr ""
+
+#: admin/partials/cpt.php:103
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: admin/partials/cpt.php:104
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: admin/partials/custom-func.php:30 admin/partials/custom-func.php:46
+#: admin/partials/custom-func.php:104 admin/partials/custom-func.php:120
+msgid "Demo"
+msgstr ""
+
+#: admin/partials/custom-func.php:53 admin/partials/custom-func.php:128
+msgid "Upgrade"
+msgstr ""
+
+#: admin/partials/custom-func.php:55 admin/partials/custom-func.php:62
+#: admin/partials/custom-func.php:130 admin/partials/custom-func.php:137
+msgid "Import"
+msgstr ""
+
+#: admin/partials/custom-func.php:69 admin/partials/custom-func.php:144
+msgid "Upgrade to import full template"
+msgstr ""
+
+#: admin/partials/custom-func.php:70 admin/partials/custom-func.php:145
+msgid "Check full version demo"
+msgstr ""
+
+#: admin/partials/custom-func.php:251
+msgid "No content found"
+msgstr ""
+
+#: admin/partials/hook.php:11 admin/partials/hook.php:57
+msgid "Linearicons"
+msgstr ""
+
+#: admin/partials/hook.php:22 admin/partials/hook.php:67
+msgid "Themify"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:13
+#: elementor/spa-admin-sub-page.php:62
+#: elementor/widgets/pro/salespage-accordion.php:96
+#: elementor/widgets/pro/salespage-accordion.php:267
+msgid "Accordion"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:14
+msgid "Display a collapsible accordion of items."
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:15
+#: beaver/modules/niche-button/niche-button.php:15
+#: beaver/modules/niche-contact/niche-contact.php:14
+#: beaver/modules/niche-icon-box/niche-icon-box.php:13
+#: beaver/modules/niche-icon-group/niche-icon-group.php:15
+#: beaver/modules/niche-list/niche-list.php:14
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:15
+#: beaver/modules/niche-offer/niche-offer.php:14
+#: beaver/modules/niche-pricing/niche-pricing.php:14
+#: beaver/modules/niche-process/niche-process.php:14
+#: beaver/modules/niche-service/niche-service.php:14
+#: beaver/modules/niche-testimonial/niche-testimonial.php:14
+#: beaver/modules/niche-title/niche-title.php:15
+msgid "Niche Addon Modules"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:53
+msgid "Items"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:60
+msgid "Item"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:68
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:123
+msgid "Display"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:72
+msgid "Collapse Inactive"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:75
+#: beaver/modules/niche-accordion/niche-accordion.php:89
+#: beaver/modules/niche-icon-group/niche-icon-group.php:139
+#: elementor/widgets/pro/salespage-testimonial-slider.php:292
+#: elementor/widgets/pro/salespage-testimonial-slider.php:305
+msgid "Yes"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:76
+#: beaver/modules/niche-accordion/niche-accordion.php:88
+#: beaver/modules/niche-icon-group/niche-icon-group.php:138
+#: elementor/widgets/pro/salespage-testimonial-slider.php:293
+#: elementor/widgets/pro/salespage-testimonial-slider.php:306
+msgid "No"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:78
+msgid ""
+"Choosing yes will keep only one item open at a time. Choosing no will allow "
+"multiple items to be open at the same time."
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:85
+msgid "Expand First Item"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:91
+msgid "Choosing yes will expand the first item by default."
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:98
+#: beaver/modules/niche-accordion/niche-accordion.php:105
+#: beaver/modules/niche-button/niche-button.php:338
+#: beaver/modules/niche-contact/niche-contact.php:39
+#: beaver/modules/niche-contact/niche-contact.php:56
+#: beaver/modules/niche-icon-box/niche-icon-box.php:77
+#: beaver/modules/niche-icon-box/niche-icon-box.php:156
+#: beaver/modules/niche-icon-group/niche-icon-group.php:44
+#: beaver/modules/niche-icon-group/niche-icon-group.php:180
+#: beaver/modules/niche-list/niche-list.php:68
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:103
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:107
+#: beaver/modules/niche-offer/niche-offer.php:65
+#: beaver/modules/niche-pricing/niche-pricing.php:132
+#: beaver/modules/niche-process/niche-process.php:122
+#: beaver/modules/niche-service/niche-service.php:97
+#: beaver/modules/niche-testimonial/niche-testimonial.php:33
+#: beaver/modules/niche-testimonial/niche-testimonial.php:97
+#: beaver/modules/niche-title/niche-title.php:83
+#: beaver/modules/niche-title/niche-title.php:178
+#: elementor/widgets/basic/salespage-cf7.php:68
+#: elementor/widgets/basic/salespage-cf7.php:87
+#: elementor/widgets/basic/salespage-mailchimp.php:68
+#: elementor/widgets/basic/salespage-mailchimp.php:83
+#: elementor/widgets/basic/salespage-title.php:243
+#: elementor/widgets/pro/salespage-accordion.php:162
+#: elementor/widgets/pro/salespage-icon-box.php:114
+#: elementor/widgets/pro/salespage-portfolio-slider.php:118
+#: elementor/widgets/pro/salespage-pricing-toggle.php:96
+#: elementor/widgets/pro/salespage-testimonial-slider.php:220
+#: elementor/widgets/pro/salespage-testimonial.php:234
+#: elementor/widgets/pro/salespage-video-gallery.php:118
+msgid "Style"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:108
+#: beaver/modules/niche-button/niche-button.php:267
+#: beaver/modules/niche-contact/niche-contact.php:91
+#: beaver/modules/niche-icon-box/niche-icon-box.php:61
+#: beaver/modules/niche-icon-box/niche-icon-box.php:80
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:135
+#: elementor/widgets/basic/salespage-cf7.php:211
+#: elementor/widgets/pro/salespage-accordion.php:166
+#: elementor/widgets/pro/salespage-button.php:125
+#: elementor/widgets/pro/salespage-button.php:152
+#: elementor/widgets/pro/salespage-icon-box.php:84
+#: elementor/widgets/pro/salespage-icon-box.php:117
+#: elementor/widgets/pro/salespage-number-box.php:80
+#: elementor/widgets/pro/salespage-testimonial-slider.php:224
+#: elementor/widgets/pro/salespage-testimonial-slider.php:358
+#: elementor/widgets/pro/salespage-testimonial.php:238
+msgid "Default"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:109
+msgid "Border Left V1"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:110
+#: elementor/widgets/pro/salespage-accordion.php:168
+msgid "Border Left V2"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:111
+#: elementor/widgets/pro/salespage-accordion.php:169
+msgid "Course Type"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:116
+msgid "Item Size"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:119
+msgctxt "Label size."
+msgid "Small"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:120
+msgctxt "Label size."
+msgid "Medium"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:121
+msgctxt "Label size."
+msgid "Large"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:129
+msgid "Item Spacing"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:143
+msgid "Item Border"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:168
+#: beaver/modules/niche-accordion/niche-accordion.php:323
+#: beaver/modules/niche-button/niche-button.php:415
+#: elementor/widgets/basic/salespage-text-editor.php:107
+#: elementor/widgets/basic/salespage-text-editor.php:369
+#: elementor/widgets/basic/salespage-text-editor.php:390
+#: elementor/widgets/basic/salespage-text-editor.php:455
+#: elementor/widgets/pro/salespage-button.php:350
+#: elementor/widgets/pro/salespage-button.php:382
+#: elementor/widgets/pro/salespage-coupon.php:174
+#: elementor/widgets/pro/salespage-coupon.php:208
+#: elementor/widgets/pro/salespage-testimonial-slider.php:579
+#: elementor/widgets/pro/salespage-testimonial-slider.php:773
+#: elementor/widgets/pro/salespage-testimonial-slider.php:804
+#: elementor/widgets/pro/salespage-testimonial-slider.php:837
+#: elementor/widgets/pro/salespage-testimonial.php:268
+#: elementor/widgets/pro/salespage-testimonial.php:513
+#: elementor/widgets/pro/salespage-testimonial.php:544
+msgid "Text Color"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:180
+msgid "Text Color - On active"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:192
+#: beaver/modules/niche-accordion/niche-accordion.php:335
+#: beaver/modules/niche-button/niche-button.php:488
+#: beaver/modules/niche-icon-box/niche-icon-box.php:221
+#: beaver/modules/niche-icon-group/niche-icon-group.php:119
+#: beaver/modules/niche-icon-group/niche-icon-group.php:225
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:213
+#: beaver/modules/niche-process/niche-process.php:144
+#: beaver/modules/niche-process/niche-process.php:198
+#: beaver/modules/niche-title/niche-title.php:251
+#: beaver/modules/niche-title/niche-title.php:265
+#: elementor/widgets/basic/salespage-title.php:274
+#: elementor/widgets/pro/salespage-button.php:362
+#: elementor/widgets/pro/salespage-button.php:394
+#: elementor/widgets/pro/salespage-coupon.php:188
+#: elementor/widgets/pro/salespage-coupon.php:222
+#: elementor/widgets/pro/salespage-icon-box.php:322
+#: elementor/widgets/pro/salespage-number-box.php:241
+#: elementor/widgets/pro/salespage-pricing-table.php:608
+#: elementor/widgets/pro/salespage-testimonial-slider.php:411
+#: elementor/widgets/pro/salespage-testimonial-slider.php:493
+#: elementor/widgets/pro/salespage-testimonial-slider.php:623
+#: elementor/widgets/pro/salespage-testimonial.php:312
+#: elementor/widgets/pro/salespage-video-gallery.php:135
+msgid "Background Color"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:204
+msgid "Background Color - On active"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:215
+#: beaver/modules/niche-accordion/niche-accordion.php:346
+#: beaver/modules/niche-button/niche-button.php:397
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:157
+#: beaver/modules/niche-title/niche-title.php:91
+#: beaver/modules/niche-title/niche-title.php:206
+#: elementor/widgets/basic/salespage-title.php:160
+#: elementor/widgets/basic/salespage-title.php:303
+#: elementor/widgets/pro/salespage-accordion.php:458
+#: elementor/widgets/pro/salespage-accordion.php:511
+#: elementor/widgets/pro/salespage-accordion.php:638
+#: elementor/widgets/pro/salespage-button.php:460
+#: elementor/widgets/pro/salespage-coupon.php:288
+#: elementor/widgets/pro/salespage-icon-box.php:440
+#: elementor/widgets/pro/salespage-image-box.php:399
+#: elementor/widgets/pro/salespage-image-box.php:486
+#: elementor/widgets/pro/salespage-image-box.php:551
+#: elementor/widgets/pro/salespage-number-box.php:359
+#: elementor/widgets/pro/salespage-pricing-table.php:622
+#: elementor/widgets/pro/salespage-testimonial-slider.php:390
+#: elementor/widgets/pro/salespage-testimonial-slider.php:611
+#: elementor/widgets/pro/salespage-testimonial.php:300
+msgid "Padding"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:231
+#: elementor/widgets/pro/salespage-pricing-toggle.php:104
+msgid "Typography - Title"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:241
+#: elementor/widgets/pro/salespage-pricing-toggle.php:112
+msgid "Typography - Subtitle"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:251
+#: beaver/modules/niche-accordion/niche-accordion.php:388
+#: beaver/modules/niche-button/niche-button.php:531
+#: beaver/modules/niche-button/niche-button.php:535
+#: beaver/modules/niche-contact/niche-contact.php:227
+#: beaver/modules/niche-icon-box/niche-icon-box.php:232
+#: beaver/modules/niche-pricing/niche-pricing.php:347
+#: beaver/modules/niche-process/niche-process.php:155
+#: beaver/modules/niche-process/niche-process.php:221
+msgid "Border"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:260
+#: beaver/modules/niche-accordion/niche-accordion.php:397
+msgid "Border - On active"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:270
+#: beaver/modules/niche-accordion/niche-accordion.php:283
+#: beaver/modules/niche-button/niche-button.php:197
+#: beaver/modules/niche-button/niche-button.php:452
+#: beaver/modules/niche-icon-box/niche-icon-box.php:35
+#: beaver/modules/niche-icon-box/niche-icon-box.php:49
+#: beaver/modules/niche-icon-box/niche-icon-box.php:160
+#: beaver/modules/niche-icon-group/niche-icon-group.php:34
+#: beaver/modules/niche-icon-group/niche-icon-group.php:47
+#: beaver/modules/niche-icon-group/niche-icon-group.php:162
+#: beaver/modules/niche-list/niche-list.php:36
+#: beaver/modules/niche-list/niche-list.php:50
+#: beaver/modules/niche-list/niche-list.php:72
+#: beaver/modules/niche-process/niche-process.php:73
+#: beaver/modules/niche-process/niche-process.php:87
+#: beaver/modules/niche-process/niche-process.php:126
+#: beaver/modules/niche-service/niche-service.php:36
+#: beaver/modules/niche-service/niche-service.php:50
+#: beaver/modules/niche-service/niche-service.php:101
+#: elementor/widgets/pro/salespage-accordion.php:178
+#: elementor/widgets/pro/salespage-accordion.php:525
+#: elementor/widgets/pro/salespage-button.php:246
+#: elementor/widgets/pro/salespage-coupon.php:94
+#: elementor/widgets/pro/salespage-icon-box.php:68
+#: elementor/widgets/pro/salespage-icon-box.php:270
+#: elementor/widgets/pro/salespage-pricing-table.php:120
+#: elementor/widgets/pro/salespage-pricing-table.php:155
+#: elementor/widgets/pro/salespage-pricing-table.php:246
+#: elementor/widgets/pro/salespage-pricing-table.php:281
+msgid "Icon"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:274
+#: beaver/modules/niche-button/niche-button.php:208
+#: beaver/modules/niche-icon-box/niche-icon-box.php:102
+#: elementor/widgets/pro/salespage-button.php:257
+#: elementor/widgets/pro/salespage-icon-box.php:213
+#: elementor/widgets/pro/salespage-number-box.php:152
+msgid "Icon Position"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:277
+#: beaver/modules/niche-icon-box/niche-icon-box.php:105
+#: beaver/modules/niche-process/niche-process.php:63
+#: elementor/widgets/basic/salespage-text-editor.php:82
+#: elementor/widgets/basic/salespage-text-editor.php:150
+#: elementor/widgets/basic/salespage-text-editor.php:212
+#: elementor/widgets/basic/salespage-text-editor.php:274
+#: elementor/widgets/basic/salespage-text-editor.php:336
+#: elementor/widgets/basic/salespage-text-editor.php:430
+#: elementor/widgets/basic/salespage-text-editor.php:490
+#: elementor/widgets/basic/salespage-text-editor.php:552
+#: elementor/widgets/basic/salespage-title.php:111
+#: elementor/widgets/pro/salespage-button.php:211
+#: elementor/widgets/pro/salespage-icon-box.php:218
+#: elementor/widgets/pro/salespage-icon-box.php:526
+#: elementor/widgets/pro/salespage-image-box.php:135
+#: elementor/widgets/pro/salespage-image-box.php:425
+#: elementor/widgets/pro/salespage-number-box.php:157
+#: elementor/widgets/pro/salespage-number-box.php:440
+#: elementor/widgets/pro/salespage-pricing-table.php:374
+#: elementor/widgets/pro/salespage-testimonial-slider.php:251
+#: elementor/widgets/pro/salespage-testimonial.php:193
+#: elementor/widgets/pro/salespage-testimonial.php:215
+msgid "Left"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:278
+#: beaver/modules/niche-icon-box/niche-icon-box.php:107
+#: beaver/modules/niche-process/niche-process.php:64
+#: elementor/widgets/basic/salespage-text-editor.php:90
+#: elementor/widgets/basic/salespage-text-editor.php:158
+#: elementor/widgets/basic/salespage-text-editor.php:220
+#: elementor/widgets/basic/salespage-text-editor.php:282
+#: elementor/widgets/basic/salespage-text-editor.php:344
+#: elementor/widgets/basic/salespage-text-editor.php:438
+#: elementor/widgets/basic/salespage-text-editor.php:498
+#: elementor/widgets/basic/salespage-text-editor.php:560
+#: elementor/widgets/basic/salespage-title.php:119
+#: elementor/widgets/pro/salespage-button.php:219
+#: elementor/widgets/pro/salespage-icon-box.php:226
+#: elementor/widgets/pro/salespage-icon-box.php:534
+#: elementor/widgets/pro/salespage-image-box.php:143
+#: elementor/widgets/pro/salespage-image-box.php:433
+#: elementor/widgets/pro/salespage-number-box.php:165
+#: elementor/widgets/pro/salespage-number-box.php:448
+#: elementor/widgets/pro/salespage-pricing-table.php:382
+#: elementor/widgets/pro/salespage-testimonial-slider.php:259
+#: elementor/widgets/pro/salespage-testimonial.php:194
+#: elementor/widgets/pro/salespage-testimonial.php:223
+msgid "Right"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:288
+#: elementor/widgets/pro/salespage-accordion.php:206
+msgid "Active Icon"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:292
+#: beaver/modules/niche-button/niche-button.php:455
+msgid "DuoTone Icon Primary Color"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:304
+#: beaver/modules/niche-button/niche-button.php:468
+msgid "DuoTone Icon Secondary Color"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:318
+#: beaver/modules/niche-accordion/niche-accordion.php:435
+#: beaver/modules/niche-icon-box/niche-icon-box.php:147
+#: beaver/modules/niche-icon-box/niche-icon-box.php:334
+#: beaver/modules/niche-process/niche-process.php:293
+#: beaver/modules/niche-service/niche-service.php:223
+#: elementor/widgets/pro/salespage-accordion.php:123
+#: elementor/widgets/pro/salespage-accordion.php:600
+#: elementor/widgets/pro/salespage-icon-box.php:514
+#: elementor/widgets/pro/salespage-image-box.php:101
+#: elementor/widgets/pro/salespage-image-box.php:413
+#: elementor/widgets/pro/salespage-number-box.php:428
+#: elementor/widgets/pro/salespage-testimonial-slider.php:118
+#: elementor/widgets/pro/salespage-testimonial-slider.php:571
+#: elementor/widgets/pro/salespage-testimonial.php:104
+#: elementor/widgets/pro/salespage-testimonial.php:260
+msgid "Content"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:362
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:173
+#: beaver/modules/niche-title/niche-title.php:105
+#: beaver/modules/niche-title/niche-title.php:220
+#: elementor/widgets/basic/salespage-title.php:149
+#: elementor/widgets/pro/salespage-image-box.php:386
+#: elementor/widgets/pro/salespage-image-box.php:474
+#: elementor/widgets/pro/salespage-image-box.php:539
+#: elementor/widgets/pro/salespage-pricing-table.php:426
+#: elementor/widgets/pro/salespage-pricing-table.php:465
+#: elementor/widgets/pro/salespage-pricing-table.php:504
+#: elementor/widgets/pro/salespage-pricing-table.php:542
+#: elementor/widgets/pro/salespage-pricing-table.php:662
+#: elementor/widgets/pro/salespage-testimonial-slider.php:378
+#: elementor/widgets/pro/salespage-testimonial-slider.php:599
+#: elementor/widgets/pro/salespage-testimonial.php:288
+msgid "Margin"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:378
+#: beaver/modules/niche-button/niche-button.php:442
+#: beaver/modules/niche-offer/niche-offer.php:85
+#: beaver/modules/niche-offer/niche-offer.php:113
+#: beaver/modules/niche-offer/niche-offer.php:141
+#: beaver/modules/niche-offer/niche-offer.php:169
+#: beaver/modules/niche-title/niche-title.php:162
+#: beaver/modules/niche-title/niche-title.php:285
+#: beaver/modules/niche-title/niche-title.php:314
+#: elementor/widgets/basic/salespage-title.php:142
+#: elementor/widgets/basic/salespage-title.php:203
+#: elementor/widgets/basic/salespage-title.php:235
+#: elementor/widgets/basic/salespage-title.php:339
+#: elementor/widgets/pro/salespage-pricing-table.php:313
+#: elementor/widgets/pro/salespage-pricing-table.php:408
+#: elementor/widgets/pro/salespage-pricing-table.php:448
+#: elementor/widgets/pro/salespage-pricing-table.php:487
+#: elementor/widgets/pro/salespage-pricing-table.php:525
+#: elementor/widgets/pro/salespage-pricing-table.php:586
+#: elementor/widgets/pro/salespage-pricing-table.php:645
+#: elementor/widgets/pro/salespage-video-gallery.php:127
+msgid "Typography"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:414
+msgid "Add Item"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:417
+#: beaver/modules/niche-button/niche-button.php:180
+#: beaver/modules/niche-contact/niche-contact.php:26
+#: beaver/modules/niche-icon-box/niche-icon-box.php:25
+#: beaver/modules/niche-icon-group/niche-icon-group.php:155
+#: beaver/modules/niche-list/niche-list.php:26
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:49
+#: beaver/modules/niche-offer/niche-offer.php:26
+#: beaver/modules/niche-pricing/niche-pricing.php:42
+#: beaver/modules/niche-process/niche-process.php:26
+#: beaver/modules/niche-service/niche-service.php:26
+#: beaver/modules/niche-testimonial/niche-testimonial.php:26
+#: beaver/modules/niche-title/niche-title.php:27
+msgid "General"
+msgstr ""
+
+#: beaver/modules/niche-accordion/niche-accordion.php:429
+#: beaver/modules/niche-offer/niche-offer.php:124
+#: elementor/widgets/pro/salespage-accordion.php:115
+msgid "Sub Title"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:14
+msgid "A simple call to action button."
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:187
+#: beaver/modules/niche-button/niche-button.php:410
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:59
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:78
+#: elementor/widgets/basic/salespage-text-editor.php:70
+#: elementor/widgets/pro/salespage-button.php:138
+#: elementor/widgets/pro/salespage-coupon.php:65
+msgid "Text"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:188
+msgid "Click Here"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:211
+msgid "Before Text"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:212
+msgid "After Text"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:220
+msgid "Icon Visibility"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:223
+msgid "Always Visible"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:224
+msgid "Fade In On Hover"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:232
+msgid "Click Action"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:235
+#: beaver/modules/niche-button/niche-button.php:252
+#: beaver/modules/niche-icon-group/niche-icon-group.php:166
+#: elementor/widgets/pro/salespage-button.php:162
+#: elementor/widgets/pro/salespage-icon-box.php:200
+#: elementor/widgets/pro/salespage-image-box.php:117
+#: elementor/widgets/pro/salespage-number-box.php:139
+#: elementor/widgets/pro/salespage-portfolio-slider.php:82
+#: elementor/widgets/pro/salespage-pricing-table.php:143
+#: elementor/widgets/pro/salespage-pricing-table.php:269
+#: elementor/widgets/pro/salespage-testimonial-slider.php:172
+#: elementor/widgets/pro/salespage-testimonial.php:177
+msgid "Link"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:236
+msgid "Lightbox"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:253
+msgid "http://www.example.com"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:264
+msgid "Button Position"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:268
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:136
+msgid "Absolute"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:281
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:146
+msgid "Position Dimension"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:292
+msgid "Lightbox Content"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:296
+msgid "Content Type"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:299
+msgid "HTML"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:300
+msgid "Video"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:326
+#: elementor/widgets/pro/salespage-button.php:180
+msgid "Video Link"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:345
+#: elementor/widgets/pro/salespage-coupon.php:75
+#: elementor/widgets/pro/salespage-image-box.php:194
+msgid "Width"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:348
+msgctxt "Width."
+msgid "Auto"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:349
+msgid "Full Width"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:350
+#: beaver/modules/niche-contact/niche-contact.php:48
+#: elementor/widgets/basic/salespage-cf7.php:78
+#: elementor/widgets/basic/salespage-mailchimp.php:74
+#: elementor/widgets/pro/salespage-testimonial-slider.php:108
+msgid "Custom"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:364
+msgid "Custom Width"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:386
+#: beaver/modules/niche-icon-box/niche-icon-box.php:117
+#: beaver/modules/niche-list/niche-list.php:169
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:111
+#: beaver/modules/niche-service/niche-service.php:59
+#: beaver/modules/niche-title/niche-title.php:68
+msgid "Align"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:429
+msgid "Text Hover Color"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:483
+#: elementor/widgets/basic/salespage-title.php:263
+#: elementor/widgets/pro/salespage-accordion.php:405
+#: elementor/widgets/pro/salespage-accordion.php:608
+msgid "Background"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:499
+#: beaver/modules/niche-icon-box/niche-icon-box.php:271
+#: beaver/modules/niche-icon-group/niche-icon-group.php:126
+#: beaver/modules/niche-icon-group/niche-icon-group.php:232
+#: beaver/modules/niche-process/niche-process.php:210
+msgid "Background Hover Color"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:509
+msgid "Background Style"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:512
+msgid "Flat"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:513
+#: beaver/modules/niche-icon-group/niche-icon-group.php:135
+msgid "Gradient"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:518
+msgid "Background Animation"
+msgstr ""
+
+#: beaver/modules/niche-button/niche-button.php:546
+msgid "Border Hover Color"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:12
+#: beaver/modules/niche-contact/niche-contact.php:60
+msgid "Form"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:13
+msgid "NicheAddons module."
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:29
+#: beaver/modules/niche-contact/niche-contact.php:33
+msgid "Contact Form"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:35
+msgid "[contact-form-7 id=\"4\" title=\"Contact form\"]"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:42
+#: elementor/widgets/basic/salespage-cf7.php:72
+#: elementor/widgets/basic/salespage-mailchimp.php:72
+#: elementor/widgets/pro/salespage-testimonial-slider.php:225
+#: elementor/widgets/pro/salespage-testimonial.php:239
+msgid "Style 1"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:43
+#: elementor/widgets/basic/salespage-cf7.php:73
+#: elementor/widgets/basic/salespage-mailchimp.php:73
+#: elementor/widgets/pro/salespage-testimonial-slider.php:226
+#: elementor/widgets/pro/salespage-testimonial.php:240
+msgid "Style 2"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:44
+#: elementor/widgets/basic/salespage-cf7.php:74
+msgid "Style 3"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:45
+#: elementor/widgets/basic/salespage-cf7.php:75
+msgid "Style 4"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:46
+#: elementor/widgets/basic/salespage-cf7.php:76
+msgid "Style 5"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:47
+#: elementor/widgets/basic/salespage-cf7.php:77
+msgid "Style 6"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:64
+msgid "Form Input Padding"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:76
+msgid "Form Margin"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:88
+#: elementor/widgets/basic/salespage-cf7.php:207
+msgid "Column Spacing"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:92
+#: elementor/widgets/basic/salespage-cf7.php:212
+msgid "Space 5"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:93
+#: elementor/widgets/basic/salespage-cf7.php:213
+msgid "Space 10"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:94
+#: elementor/widgets/basic/salespage-cf7.php:214
+msgid "Space 20"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:99
+#: elementor/widgets/basic/salespage-cf7.php:95
+#: elementor/widgets/basic/salespage-mailchimp.php:91
+msgid "Typography - Overall"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:108
+#: elementor/widgets/basic/salespage-cf7.php:103
+#: elementor/widgets/basic/salespage-mailchimp.php:99
+msgid "Typography - Label"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:118
+msgid "Form Text Color"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:130
+msgid "Placeholder Text Color"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:142
+msgid "Form Field Background Color"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:153
+msgid "Field Border"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:170
+#: beaver/modules/niche-pricing/niche-pricing.php:290
+#: elementor/widgets/basic/salespage-cf7.php:195
+#: elementor/widgets/basic/salespage-mailchimp.php:213
+msgid "Button Padding"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:182
+#: beaver/modules/niche-pricing/niche-pricing.php:302
+msgid "Button Margin"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:194
+#: beaver/modules/niche-pricing/niche-pricing.php:314
+msgid "Button Typography"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:204
+#: beaver/modules/niche-pricing/niche-pricing.php:324
+#: elementor/widgets/basic/salespage-cf7.php:174
+#: elementor/widgets/basic/salespage-mailchimp.php:192
+#: elementor/widgets/pro/salespage-pricing-toggle.php:139
+msgid "Button Color"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:216
+#: beaver/modules/niche-pricing/niche-pricing.php:336
+#: elementor/widgets/basic/salespage-cf7.php:184
+#: elementor/widgets/basic/salespage-mailchimp.php:202
+msgid "Button Background Color"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:238
+#: beaver/modules/niche-pricing/niche-pricing.php:358
+msgid "Button Hover Color"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:250
+#: beaver/modules/niche-pricing/niche-pricing.php:370
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: beaver/modules/niche-contact/niche-contact.php:261
+#: beaver/modules/niche-pricing/niche-pricing.php:381
+msgid "Border hover"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:11
+#: beaver/modules/niche-icon-box/niche-icon-box.php:28
+msgid "Icon box"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:12
+msgid "NicheAddons icon box module."
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:32
+#: beaver/modules/niche-list/niche-list.php:33
+#: beaver/modules/niche-process/niche-process.php:70
+#: beaver/modules/niche-service/niche-service.php:33
+msgid "Icon Type"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:36
+#: beaver/modules/niche-icon-box/niche-icon-box.php:53
+#: beaver/modules/niche-list/niche-list.php:37
+#: beaver/modules/niche-list/niche-list.php:54
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:60
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:73
+#: beaver/modules/niche-process/niche-process.php:74
+#: beaver/modules/niche-process/niche-process.php:91
+#: beaver/modules/niche-service/niche-service.php:37
+#: beaver/modules/niche-service/niche-service.php:54
+#: beaver/modules/niche-testimonial/niche-testimonial.php:67
+#: elementor/widgets/pro/salespage-image-box.php:186
+#: elementor/widgets/pro/salespage-testimonial-slider.php:694
+#: elementor/widgets/pro/salespage-testimonial.php:431
+msgid "Image"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:58
+#: elementor/widgets/pro/salespage-accordion.php:153
+#: elementor/widgets/pro/salespage-button.php:290
+#: elementor/widgets/pro/salespage-coupon.php:122
+#: elementor/widgets/pro/salespage-icon-box.php:81
+#: elementor/widgets/pro/salespage-image-box.php:175
+#: elementor/widgets/pro/salespage-number-box.php:77
+#: elementor/widgets/pro/salespage-testimonial-slider.php:270
+#: elementor/widgets/pro/salespage-testimonial.php:248
+msgid "View"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:62
+#: elementor/widgets/pro/salespage-icon-box.php:85
+#: elementor/widgets/pro/salespage-number-box.php:81
+msgid "Stacked"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:63
+#: elementor/widgets/pro/salespage-icon-box.php:86
+#: elementor/widgets/pro/salespage-number-box.php:82
+msgid "Framed"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:68
+#: elementor/widgets/pro/salespage-icon-box.php:96
+#: elementor/widgets/pro/salespage-number-box.php:92
+msgid "Shape"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:71
+#: elementor/widgets/pro/salespage-icon-box.php:99
+#: elementor/widgets/pro/salespage-number-box.php:95
+msgid "Circle"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:72
+#: elementor/widgets/pro/salespage-icon-box.php:100
+#: elementor/widgets/pro/salespage-number-box.php:96
+msgid "Square"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:81
+#: elementor/widgets/pro/salespage-icon-box.php:118
+msgid "Progress Type"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:93
+#: beaver/modules/niche-process/niche-process.php:50
+msgid "Content Order"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:96
+#: beaver/modules/niche-process/niche-process.php:53
+msgid "Icon First"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:97
+#: beaver/modules/niche-process/niche-process.php:54
+msgid "Content Fitst"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:106
+#: beaver/modules/niche-icon-box/niche-icon-box.php:125
+#: elementor/widgets/pro/salespage-icon-box.php:222
+#: elementor/widgets/pro/salespage-icon-box.php:554
+#: elementor/widgets/pro/salespage-image-box.php:139
+#: elementor/widgets/pro/salespage-image-box.php:453
+#: elementor/widgets/pro/salespage-number-box.php:161
+#: elementor/widgets/pro/salespage-number-box.php:468
+#: elementor/widgets/pro/salespage-testimonial.php:196
+msgid "Top"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:122
+#: elementor/widgets/pro/salespage-icon-box.php:551
+#: elementor/widgets/pro/salespage-image-box.php:450
+#: elementor/widgets/pro/salespage-number-box.php:465
+msgid "Vertical Alignment"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:126
+#: elementor/widgets/pro/salespage-icon-box.php:555
+#: elementor/widgets/pro/salespage-image-box.php:454
+#: elementor/widgets/pro/salespage-number-box.php:469
+msgid "Middle"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:127
+#: elementor/widgets/pro/salespage-icon-box.php:556
+#: elementor/widgets/pro/salespage-image-box.php:455
+#: elementor/widgets/pro/salespage-number-box.php:470
+msgid "Bottom"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:134
+#: elementor/widgets/pro/salespage-icon-box.php:161
+#: elementor/widgets/pro/salespage-image-box.php:92
+#: elementor/widgets/pro/salespage-number-box.php:114
+msgid "This is the heading"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:135
+#: beaver/modules/niche-process/niche-process.php:104
+#: beaver/modules/niche-service/niche-service.php:79
+msgid "Title text"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:140
+#: elementor/widgets/pro/salespage-icon-box.php:170
+msgid "Step No."
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:141
+#: beaver/modules/niche-icon-box/niche-icon-box.php:142
+#: beaver/modules/niche-process/niche-process.php:98
+#: beaver/modules/niche-service/niche-service.php:73
+#: elementor/widgets/pro/salespage-icon-box.php:172
+#: elementor/widgets/pro/salespage-icon-box.php:173
+msgid "1"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:148
+#: elementor/widgets/basic/salespage-text-editor.php:61
+#: elementor/widgets/pro/salespage-accordion.php:139
+#: elementor/widgets/pro/salespage-accordion.php:143
+#: elementor/widgets/pro/salespage-icon-box.php:189
+#: elementor/widgets/pro/salespage-image-box.php:106
+#: elementor/widgets/pro/salespage-number-box.php:128
+#: elementor/widgets/pro/salespage-testimonial-slider.php:124
+#: elementor/widgets/pro/salespage-testimonial-slider.php:189
+#: elementor/widgets/pro/salespage-testimonial-slider.php:197
+#: elementor/widgets/pro/salespage-testimonial-slider.php:205
+#: elementor/widgets/pro/salespage-testimonial.php:110
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:149
+msgid "Content text"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:164
+#: beaver/modules/niche-service/niche-service.php:105
+#: elementor/widgets/pro/salespage-button.php:273
+#: elementor/widgets/pro/salespage-coupon.php:105
+msgid "Icon Spacing"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:176
+msgid "Icon Width & Height"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:209
+#: beaver/modules/niche-list/niche-list.php:91
+#: beaver/modules/niche-service/niche-service.php:118
+#: elementor/widgets/pro/salespage-icon-box.php:297
+msgid "Icon Color"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:242
+#: beaver/modules/niche-list/niche-list.php:102
+#: beaver/modules/niche-process/niche-process.php:165
+#: beaver/modules/niche-service/niche-service.php:129
+#: elementor/widgets/pro/salespage-pricing-table.php:553
+msgid "Icon Size"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:259
+msgid "Icon Hover Color"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:282
+msgid "Border Hover"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:298
+#: beaver/modules/niche-pricing/niche-pricing.php:140
+#: beaver/modules/niche-process/niche-process.php:258
+#: beaver/modules/niche-service/niche-service.php:188
+msgid "Title Padding"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:312
+#: beaver/modules/niche-pricing/niche-pricing.php:153
+#: beaver/modules/niche-process/niche-process.php:271
+#: beaver/modules/niche-service/niche-service.php:201
+#: beaver/modules/niche-title/niche-title.php:122
+#: elementor/widgets/pro/salespage-pricing-toggle.php:119
+msgid "Title Color"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:323
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:203
+#: beaver/modules/niche-pricing/niche-pricing.php:164
+#: beaver/modules/niche-process/niche-process.php:282
+#: beaver/modules/niche-service/niche-service.php:212
+#: beaver/modules/niche-title/niche-title.php:133
+msgid "Title Typography"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:338
+#: beaver/modules/niche-process/niche-process.php:297
+#: beaver/modules/niche-service/niche-service.php:227
+msgid "Content Padding"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:352
+#: beaver/modules/niche-process/niche-process.php:310
+#: beaver/modules/niche-service/niche-service.php:240
+msgid "Content Color"
+msgstr ""
+
+#: beaver/modules/niche-icon-box/niche-icon-box.php:364
+#: beaver/modules/niche-process/niche-process.php:321
+#: beaver/modules/niche-service/niche-service.php:251
+msgid "Content Typography"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:13
+msgid "Icon Group"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:14
+msgid "NicheAddons icon group module."
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:27
+msgid "Icons"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:51
+#: elementor/widgets/pro/salespage-button.php:235
+#: elementor/widgets/pro/salespage-icon-box.php:423
+#: elementor/widgets/pro/salespage-number-box.php:342
+msgid "Size"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:63
+#: elementor/widgets/pro/salespage-accordion.php:377
+#: elementor/widgets/pro/salespage-accordion.php:580
+#: elementor/widgets/pro/salespage-icon-box.php:400
+#: elementor/widgets/pro/salespage-icon-box.php:575
+#: elementor/widgets/pro/salespage-number-box.php:319
+#: elementor/widgets/pro/salespage-number-box.php:506
+msgid "Spacing"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:76
+#: elementor/widgets/basic/salespage-text-editor.php:78
+#: elementor/widgets/basic/salespage-text-editor.php:146
+#: elementor/widgets/basic/salespage-text-editor.php:208
+#: elementor/widgets/basic/salespage-text-editor.php:270
+#: elementor/widgets/basic/salespage-text-editor.php:332
+#: elementor/widgets/basic/salespage-text-editor.php:426
+#: elementor/widgets/basic/salespage-text-editor.php:486
+#: elementor/widgets/basic/salespage-text-editor.php:548
+#: elementor/widgets/basic/salespage-title.php:107
+#: elementor/widgets/pro/salespage-accordion.php:536
+#: elementor/widgets/pro/salespage-button.php:207
+#: elementor/widgets/pro/salespage-icon-box.php:522
+#: elementor/widgets/pro/salespage-image-box.php:421
+#: elementor/widgets/pro/salespage-number-box.php:436
+#: elementor/widgets/pro/salespage-pricing-table.php:370
+#: elementor/widgets/pro/salespage-testimonial-slider.php:246
+#: elementor/widgets/pro/salespage-testimonial.php:210
+msgid "Alignment"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:88
+msgid "Icon Colors"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:93
+#: beaver/modules/niche-icon-group/niche-icon-group.php:208
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:192
+#: beaver/modules/niche-offer/niche-offer.php:75
+#: beaver/modules/niche-offer/niche-offer.php:103
+#: beaver/modules/niche-offer/niche-offer.php:131
+#: beaver/modules/niche-offer/niche-offer.php:159
+#: beaver/modules/niche-title/niche-title.php:151
+#: beaver/modules/niche-title/niche-title.php:237
+#: beaver/modules/niche-title/niche-title.php:303
+#: elementor/widgets/basic/salespage-title.php:190
+#: elementor/widgets/basic/salespage-title.php:222
+#: elementor/widgets/basic/salespage-title.php:326
+#: elementor/widgets/pro/salespage-accordion.php:428
+#: elementor/widgets/pro/salespage-accordion.php:481
+#: elementor/widgets/pro/salespage-accordion.php:556
+#: elementor/widgets/pro/salespage-accordion.php:619
+#: elementor/widgets/pro/salespage-icon-box.php:592
+#: elementor/widgets/pro/salespage-icon-box.php:637
+#: elementor/widgets/pro/salespage-icon-box.php:673
+#: elementor/widgets/pro/salespage-image-box.php:498
+#: elementor/widgets/pro/salespage-image-box.php:563
+#: elementor/widgets/pro/salespage-number-box.php:216
+#: elementor/widgets/pro/salespage-number-box.php:523
+#: elementor/widgets/pro/salespage-number-box.php:556
+#: elementor/widgets/pro/salespage-number-box.php:592
+#: elementor/widgets/pro/salespage-pricing-table.php:320
+#: elementor/widgets/pro/salespage-pricing-table.php:415
+#: elementor/widgets/pro/salespage-pricing-table.php:455
+#: elementor/widgets/pro/salespage-pricing-table.php:494
+#: elementor/widgets/pro/salespage-pricing-table.php:532
+#: elementor/widgets/pro/salespage-pricing-table.php:593
+#: elementor/widgets/pro/salespage-pricing-table.php:652
+#: elementor/widgets/pro/salespage-testimonial-slider.php:324
+#: elementor/widgets/pro/salespage-testimonial-slider.php:867
+#: elementor/widgets/pro/salespage-video-gallery.php:147
+msgid "Color"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:106
+#: beaver/modules/niche-icon-group/niche-icon-group.php:215
+#: elementor/widgets/pro/salespage-icon-box.php:604
+#: elementor/widgets/pro/salespage-icon-box.php:685
+#: elementor/widgets/pro/salespage-image-box.php:510
+#: elementor/widgets/pro/salespage-image-box.php:575
+msgid "Hover Color"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:152
+msgid "Add Icon"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:172
+msgid "Screen Reader Text"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:183
+msgid "Colors"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:186
+msgid "DuoTone Primary Color"
+msgstr ""
+
+#: beaver/modules/niche-icon-group/niche-icon-group.php:196
+msgid "DuoTone Secondary Color"
+msgstr ""
+
+#: beaver/modules/niche-list/niche-list.php:12
+#: beaver/modules/niche-list/niche-list.php:29
+#: beaver/modules/niche-list/niche-list.php:132
+#: beaver/modules/niche-pricing/niche-pricing.php:223
+msgid "List"
+msgstr ""
+
+#: beaver/modules/niche-list/niche-list.php:13
+msgid "NicheAddons list module."
+msgstr ""
+
+#: beaver/modules/niche-list/niche-list.php:59
+msgid "List Text"
+msgstr ""
+
+#: beaver/modules/niche-list/niche-list.php:76
+msgid "Icon top Spacing"
+msgstr ""
+
+#: beaver/modules/niche-list/niche-list.php:116
+#: beaver/modules/niche-service/niche-service.php:142
+#: elementor/widgets/pro/salespage-testimonial-slider.php:702
+#: elementor/widgets/pro/salespage-testimonial.php:442
+msgid "Image Size"
+msgstr ""
+
+#: beaver/modules/niche-list/niche-list.php:136
+#: beaver/modules/niche-pricing/niche-pricing.php:239
+msgid "List Padding"
+msgstr ""
+
+#: beaver/modules/niche-list/niche-list.php:149
+#: beaver/modules/niche-pricing/niche-pricing.php:252
+msgid "List Color"
+msgstr ""
+
+#: beaver/modules/niche-list/niche-list.php:160
+#: beaver/modules/niche-pricing/niche-pricing.php:275
+msgid "List Typography"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:13
+msgid "Magic Wind"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:14
+msgid "NicheAddons image/text magic positioning module."
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:56
+#: elementor/widgets/pro/salespage-button.php:121
+#: elementor/widgets/pro/salespage-video-gallery.php:71
+msgid "Type"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:79
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:80
+msgid "Type any text here"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:84
+#: beaver/modules/niche-title/niche-title.php:52
+#: elementor/widgets/basic/salespage-title.php:88
+msgid "HTML Tag"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:87
+#: beaver/modules/niche-title/niche-title.php:55
+#: elementor/widgets/basic/salespage-title.php:92
+msgid "H1"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:88
+#: beaver/modules/niche-title/niche-title.php:56
+#: elementor/widgets/basic/salespage-text-editor.php:138
+#: elementor/widgets/basic/salespage-title.php:93
+msgid "H2"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:89
+#: beaver/modules/niche-title/niche-title.php:57
+#: elementor/widgets/basic/salespage-text-editor.php:200
+#: elementor/widgets/basic/salespage-title.php:94
+msgid "H3"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:90
+#: beaver/modules/niche-title/niche-title.php:58
+#: elementor/widgets/basic/salespage-text-editor.php:262
+#: elementor/widgets/basic/salespage-title.php:95
+msgid "H4"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:91
+#: beaver/modules/niche-title/niche-title.php:59
+#: elementor/widgets/basic/salespage-title.php:96
+msgid "H5"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:92
+#: beaver/modules/niche-title/niche-title.php:60
+#: elementor/widgets/basic/salespage-title.php:97
+msgid "H6"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:93
+#: beaver/modules/niche-title/niche-title.php:61
+#: elementor/widgets/basic/salespage-title.php:98
+msgid "div"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:94
+#: beaver/modules/niche-title/niche-title.php:62
+#: elementor/widgets/basic/salespage-title.php:99
+msgid "span"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:95
+#: beaver/modules/niche-title/niche-title.php:63
+#: elementor/widgets/basic/salespage-title.php:100
+msgid "p"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:126
+msgid "Block"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:127
+msgid "Inline Block"
+msgstr ""
+
+#: beaver/modules/niche-magic-wind/niche-magic-wind.php:132
+msgid "Position"
+msgstr ""
+
+#: beaver/modules/niche-offer/niche-offer.php:12
+#: beaver/modules/niche-offer/niche-offer.php:29
+msgid "Offer"
+msgstr ""
+
+#: beaver/modules/niche-offer/niche-offer.php:13
+msgid "NicheAddons offer module."
+msgstr ""
+
+#: beaver/modules/niche-offer/niche-offer.php:33
+#: elementor/widgets/pro/salespage-pricing-table.php:89
+#: elementor/widgets/pro/salespage-pricing-table.php:215
+msgid "Offer Title"
+msgstr ""
+
+#: beaver/modules/niche-offer/niche-offer.php:35
+#: beaver/modules/niche-offer/niche-offer.php:41
+msgid "title text"
+msgstr ""
+
+#: beaver/modules/niche-offer/niche-offer.php:56
+#: elementor/spa-admin-sub-page.php:63
+msgid "Coupon"
+msgstr ""
+
+#: beaver/modules/niche-offer/niche-offer.php:58
+msgid "COU1235"
+msgstr ""
+
+#: beaver/modules/niche-offer/niche-offer.php:96
+msgid "Inner Title"
+msgstr ""
+
+#: beaver/modules/niche-offer/niche-offer.php:152
+msgid "Offer Code"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:12
+#: beaver/modules/niche-pricing/niche-pricing.php:45
+msgid "Pricing"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:13
+msgid "NicheAddons pricing module."
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:49
+msgid "Pricing Style"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:52
+#: beaver/modules/niche-process/niche-process.php:36
+#: beaver/modules/niche-testimonial/niche-testimonial.php:36
+msgid "Style One"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:53
+#: beaver/modules/niche-process/niche-process.php:37
+#: beaver/modules/niche-testimonial/niche-testimonial.php:37
+msgid "Style Two"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:63
+msgid "Pricing Mode"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:66
+msgid "Light"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:67
+msgid "Dark (Popular)"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:77
+msgid "Popular Title"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:79
+msgid "Popular"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:85
+#: elementor/widgets/pro/salespage-pricing-table.php:61
+#: elementor/widgets/pro/salespage-pricing-table.php:187
+msgid "Individual"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:89
+#: beaver/modules/niche-pricing/niche-pricing.php:175
+#: elementor/widgets/pro/salespage-pricing-table.php:68
+#: elementor/widgets/pro/salespage-pricing-table.php:194
+#: elementor/widgets/pro/salespage-pricing-table.php:440
+msgid "Price"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:91
+#: elementor/widgets/pro/salespage-pricing-table.php:70
+msgid "$20"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:95
+#: elementor/widgets/pro/salespage-pricing-table.php:77
+#: elementor/widgets/pro/salespage-pricing-table.php:203
+#: elementor/widgets/pro/salespage-pricing-table.php:479
+msgid "Time"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:97
+#: beaver/modules/niche-pricing/niche-pricing.php:125
+#: elementor/widgets/pro/salespage-pricing-table.php:79
+#: elementor/widgets/pro/salespage-pricing-table.php:205
+msgid "USD/month"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:101
+msgid "Pricing Text"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:107
+#: elementor/widgets/pro/salespage-pricing-table.php:132
+#: elementor/widgets/pro/salespage-pricing-table.php:259
+msgid "Button Text"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:109
+msgid "Buy Now"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:113
+msgid "Button Link"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:123
+msgid "End Word"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:124
+#: elementor/widgets/pro/salespage-pricing-table.php:167
+msgid "Get a 7-Day Free Trial"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:179
+msgid "Price Padding"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:192
+msgid "Price Color"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:203
+msgid "Price Typography"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:212
+msgid "Time Typography"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:227
+msgid "List Outer Padding"
+msgstr ""
+
+#: beaver/modules/niche-pricing/niche-pricing.php:264
+msgid "List Icon Color"
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:12
+#: beaver/modules/niche-process/niche-process.php:29
+msgid "Process"
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:13
+msgid "NicheAddons process module."
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:33
+msgid "Process Style"
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:59
+msgid "Border Style"
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:62
+#: beaver/modules/niche-title/niche-title.php:181
+#: elementor/widgets/basic/salespage-title.php:247
+#: elementor/widgets/pro/salespage-accordion.php:278
+#: elementor/widgets/pro/salespage-testimonial-slider.php:425
+#: elementor/widgets/pro/salespage-testimonial-slider.php:507
+#: elementor/widgets/pro/salespage-testimonial-slider.php:637
+#: elementor/widgets/pro/salespage-testimonial.php:326
+msgid "None"
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:65
+msgid "Both"
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:96
+#: beaver/modules/niche-process/niche-process.php:180
+#: beaver/modules/niche-service/niche-service.php:71
+#: beaver/modules/niche-service/niche-service.php:157
+#: elementor/widgets/pro/salespage-number-box.php:68
+#: elementor/widgets/pro/salespage-number-box.php:480
+msgid "Number"
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:130
+#: beaver/modules/niche-process/niche-process.php:184
+msgid "Bottom Spacing"
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:232
+#: beaver/modules/niche-service/niche-service.php:162
+msgid "Number Color"
+msgstr ""
+
+#: beaver/modules/niche-process/niche-process.php:243
+#: beaver/modules/niche-service/niche-service.php:173
+msgid "Number Typography"
+msgstr ""
+
+#: beaver/modules/niche-service/niche-service.php:12
+#: beaver/modules/niche-service/niche-service.php:29
+msgid "Service"
+msgstr ""
+
+#: beaver/modules/niche-service/niche-service.php:13
+msgid "NicheAddons service module."
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:13
+msgid "NicheAddons testimonial module."
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:38
+msgid "Style Three"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:39
+msgid "Style Four"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:55
+#: beaver/modules/niche-testimonial/niche-testimonial.php:100
+#: elementor/widgets/pro/salespage-testimonial-slider.php:148
+#: elementor/widgets/pro/salespage-testimonial-slider.php:765
+#: elementor/widgets/pro/salespage-testimonial.php:153
+#: elementor/widgets/pro/salespage-testimonial.php:505
+msgid "Name"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:57
+msgid "Name text"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:61
+msgid "Location/Designation"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:63
+msgid "Location text"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:72
+msgid "Quote Image"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:77
+msgid "Star Rating"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:79
+msgid "4.5"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:107
+msgid "Name Color"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:117
+msgid "Name Typography"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:128
+msgid "Location"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:135
+msgid "Location Color"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:145
+msgid "Location Typography"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:156
+msgid "Contant"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:163
+msgid "Contant Color"
+msgstr ""
+
+#: beaver/modules/niche-testimonial/niche-testimonial.php:173
+msgid "Contant Typography"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:14
+msgid "NicheAddons title module."
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:34
+#: elementor/widgets/basic/salespage-title.php:58
+msgid "First part of title"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:35
+#: elementor/widgets/basic/salespage-title.php:60
+msgid "First part "
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:36
+#: elementor/widgets/basic/salespage-title.php:61
+msgid "Type first part of title here"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:40
+#: elementor/widgets/basic/salespage-title.php:68
+msgid "Middle part of title"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:41
+#: elementor/widgets/basic/salespage-title.php:70
+msgid "nice middle"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:42
+#: elementor/widgets/basic/salespage-title.php:71
+msgid "Type middle part of title here"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:46
+#: elementor/widgets/basic/salespage-title.php:78
+msgid "Last part of title"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:47
+#: elementor/widgets/basic/salespage-title.php:80
+msgid " last part of title"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:48
+#: elementor/widgets/basic/salespage-title.php:81
+msgid "Type last part of title here"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:87
+#: elementor/widgets/basic/salespage-title.php:134
+msgid "Style - Overall"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:144
+#: elementor/widgets/basic/salespage-title.php:183
+msgid "First Part"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:174
+#: elementor/widgets/basic/salespage-title.php:214
+msgid "Middle Part"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:182
+#: elementor/widgets/basic/salespage-title.php:248
+msgid "Underline"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:183
+#: elementor/widgets/basic/salespage-title.php:249
+msgid "Italic"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:184
+#: elementor/widgets/basic/salespage-title.php:250
+msgid "Styled Background"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:185
+#: elementor/widgets/basic/salespage-title.php:251
+msgid "Styled Background 1"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:186
+#: elementor/widgets/basic/salespage-title.php:252
+msgid "Color Background"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:187
+#: elementor/widgets/basic/salespage-title.php:253
+msgid "Curved Background"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:188
+#: elementor/widgets/basic/salespage-title.php:254
+msgid "Curved CSS3 Background"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:276
+#: elementor/widgets/basic/salespage-title.php:288
+msgid "Clip Path"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:277
+#: beaver/modules/niche-title/niche-title.php:278
+#: elementor/widgets/basic/salespage-title.php:290
+#: elementor/widgets/basic/salespage-title.php:291
+msgid "13% 0, 93% 4%, 100% 95%, 0% 100%"
+msgstr ""
+
+#: beaver/modules/niche-title/niche-title.php:296
+#: elementor/widgets/basic/salespage-title.php:318
+msgid "Last Part"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: elementor/em-setup.php:104 elementor/em-setup.php:120
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: elementor/em-setup.php:105 elementor/em-setup.php:121
+#: sales-page-addon.php:227 sales-page-addon.php:250
+msgid "Sales Page Addon"
+msgstr ""
+
+#: elementor/em-setup.php:106
+msgid "Elementor"
+msgstr ""
+
+#: elementor/em-setup.php:122
+msgid "PHP"
+msgstr ""
+
+#: elementor/em-setup.php:144
+msgid "Sales Page Basic Elements : By Niche Addons"
+msgstr ""
+
+#: elementor/em-setup.php:152
+msgid "Unique Sales Page Elements : By Niche Addons"
+msgstr ""
+
+#: elementor/lib/lib.php:53
+msgid "No contact forms found"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:10
+msgid "Basic Widgets"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:15
+#: elementor/widgets/basic/salespage-cf7.php:52
+msgid "CF7"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:16
+#: elementor/widgets/basic/salespage-mailchimp.php:52
+msgid "Mailchimp"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:18
+msgid "Rich Editor"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:45
+msgid "Pro Widgets"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:56
+msgid "Pro Widgets - Upgrade to Make These Widgets Work."
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:65
+#: elementor/widgets/pro/salespage-icon-box.php:61
+msgid "Icon Box"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:66
+#: elementor/widgets/pro/salespage-image-box.php:57
+msgid "Image Box"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:67
+#: elementor/widgets/pro/salespage-number-box.php:61
+msgid "Number Box"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:68
+msgid "Portfolio Carousel"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:69
+msgid "Pricing Table"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:70
+msgid "Pricing Toggle"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:71
+msgid "Testimonial Slider"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:73
+msgid "Video Gallery"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:98
+msgid "Save Basic Widgets Settings"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:111
+msgid "Save Pro Widgets Settings"
+msgstr ""
+
+#: elementor/spa-admin-sub-page.php:118
+msgid "Upgrade to save"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-cf7.php:26
+msgid "SP CF7"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-cf7.php:58
+msgid "Select cf7 form"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-cf7.php:111
+#: elementor/widgets/basic/salespage-mailchimp.php:107
+msgid "Typography - Button"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-cf7.php:118
+#: elementor/widgets/basic/salespage-mailchimp.php:114
+msgid "Input Color"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-cf7.php:132
+#: elementor/widgets/basic/salespage-mailchimp.php:126
+msgid "Input BG Color"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-cf7.php:142
+#: elementor/widgets/basic/salespage-mailchimp.php:136
+msgid "Input Border Color"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-cf7.php:152
+#: elementor/widgets/basic/salespage-mailchimp.php:170
+msgid "Field Margin"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-cf7.php:163
+#: elementor/widgets/basic/salespage-mailchimp.php:181
+msgid "Field Padding"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-mailchimp.php:26
+msgid "SP Mailchimp"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-mailchimp.php:58
+msgid "Input mailchimp form shortcode"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-mailchimp.php:60
+msgid "[mc4wp_form id=\"1061\"]"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-mailchimp.php:147
+#: elementor/widgets/pro/salespage-accordion.php:363
+#: elementor/widgets/pro/salespage-button.php:440
+#: elementor/widgets/pro/salespage-coupon.php:268
+#: elementor/widgets/pro/salespage-icon-box.php:489
+#: elementor/widgets/pro/salespage-image-box.php:293
+#: elementor/widgets/pro/salespage-image-box.php:359
+#: elementor/widgets/pro/salespage-number-box.php:411
+#: elementor/widgets/pro/salespage-testimonial-slider.php:464
+#: elementor/widgets/pro/salespage-testimonial-slider.php:547
+#: elementor/widgets/pro/salespage-testimonial-slider.php:679
+#: elementor/widgets/pro/salespage-testimonial-slider.php:750
+#: elementor/widgets/pro/salespage-testimonial.php:368
+#: elementor/widgets/pro/salespage-testimonial.php:490
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:26
+msgid "SP Rich Editor"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:52
+msgid "Editor"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:86
+#: elementor/widgets/basic/salespage-text-editor.php:154
+#: elementor/widgets/basic/salespage-text-editor.php:216
+#: elementor/widgets/basic/salespage-text-editor.php:278
+#: elementor/widgets/basic/salespage-text-editor.php:340
+#: elementor/widgets/basic/salespage-text-editor.php:434
+#: elementor/widgets/basic/salespage-text-editor.php:494
+#: elementor/widgets/basic/salespage-text-editor.php:556
+#: elementor/widgets/basic/salespage-title.php:115
+#: elementor/widgets/pro/salespage-button.php:215
+#: elementor/widgets/pro/salespage-icon-box.php:530
+#: elementor/widgets/pro/salespage-image-box.php:429
+#: elementor/widgets/pro/salespage-number-box.php:444
+#: elementor/widgets/pro/salespage-pricing-table.php:378
+#: elementor/widgets/pro/salespage-testimonial-slider.php:255
+#: elementor/widgets/pro/salespage-testimonial.php:219
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:94
+#: elementor/widgets/basic/salespage-text-editor.php:162
+#: elementor/widgets/basic/salespage-text-editor.php:224
+#: elementor/widgets/basic/salespage-text-editor.php:286
+#: elementor/widgets/basic/salespage-text-editor.php:348
+#: elementor/widgets/basic/salespage-text-editor.php:442
+#: elementor/widgets/basic/salespage-text-editor.php:502
+#: elementor/widgets/basic/salespage-text-editor.php:564
+#: elementor/widgets/pro/salespage-button.php:223
+#: elementor/widgets/pro/salespage-icon-box.php:538
+#: elementor/widgets/pro/salespage-image-box.php:437
+#: elementor/widgets/pro/salespage-number-box.php:452
+msgid "Justified"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:126
+msgid "Sample Icon"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:175
+msgid "H2 Color"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:237
+msgid "H3 Color"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:299
+msgid "H4 Color"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:324
+msgid "Link (a tag)"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:362
+#: elementor/widgets/pro/salespage-button.php:343
+#: elementor/widgets/pro/salespage-coupon.php:167
+#: elementor/widgets/pro/salespage-icon-box.php:290
+#: elementor/widgets/pro/salespage-image-box.php:231
+#: elementor/widgets/pro/salespage-number-box.php:209
+#: elementor/widgets/pro/salespage-testimonial-slider.php:404
+msgid "Normal"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:383
+#: elementor/widgets/pro/salespage-button.php:375
+#: elementor/widgets/pro/salespage-coupon.php:201
+#: elementor/widgets/pro/salespage-icon-box.php:352
+#: elementor/widgets/pro/salespage-image-box.php:317
+#: elementor/widgets/pro/salespage-number-box.php:271
+#: elementor/widgets/pro/salespage-testimonial-slider.php:486
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:418
+msgid "Unordered list"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:478
+msgid "SUB"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:515
+msgid "SUB Color"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:540
+msgid "Strong"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-text-editor.php:578
+msgid "Strong Color"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-title.php:26
+msgid "SP Title"
+msgstr ""
+
+#: elementor/widgets/basic/salespage-title.php:172
+msgid "Text Shadow"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:46
+msgid "SP Accordion"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:107
+msgid "Accordion Title"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:125
+msgid "Accordion Content"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:133
+msgid "Accordion Items"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:138
+msgid "Accordion #1"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:142
+msgid "Accordion #2"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:167
+msgid "Border Left"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:236
+#: elementor/widgets/pro/salespage-icon-box.php:248
+#: elementor/widgets/pro/salespage-image-box.php:155
+#: elementor/widgets/pro/salespage-number-box.php:177
+msgid "Title HTML Tag"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:254
+msgid "Open First Item?"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:256
+msgid "NO"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:257
+msgid "YES"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:275
+#: elementor/widgets/pro/salespage-testimonial-slider.php:422
+#: elementor/widgets/pro/salespage-testimonial-slider.php:504
+#: elementor/widgets/pro/salespage-testimonial-slider.php:634
+#: elementor/widgets/pro/salespage-testimonial.php:323
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:279
+#: elementor/widgets/pro/salespage-testimonial-slider.php:426
+#: elementor/widgets/pro/salespage-testimonial-slider.php:508
+#: elementor/widgets/pro/salespage-testimonial-slider.php:638
+#: elementor/widgets/pro/salespage-testimonial.php:327
+msgctxt "Border Control"
+msgid "Solid"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:280
+#: elementor/widgets/pro/salespage-testimonial-slider.php:427
+#: elementor/widgets/pro/salespage-testimonial-slider.php:509
+#: elementor/widgets/pro/salespage-testimonial-slider.php:639
+#: elementor/widgets/pro/salespage-testimonial.php:328
+msgctxt "Border Control"
+msgid "Double"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:281
+#: elementor/widgets/pro/salespage-testimonial-slider.php:428
+#: elementor/widgets/pro/salespage-testimonial-slider.php:510
+#: elementor/widgets/pro/salespage-testimonial-slider.php:640
+#: elementor/widgets/pro/salespage-testimonial.php:329
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:282
+#: elementor/widgets/pro/salespage-testimonial-slider.php:429
+#: elementor/widgets/pro/salespage-testimonial-slider.php:511
+#: elementor/widgets/pro/salespage-testimonial-slider.php:641
+#: elementor/widgets/pro/salespage-testimonial.php:330
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:283
+#: elementor/widgets/pro/salespage-testimonial-slider.php:430
+#: elementor/widgets/pro/salespage-testimonial-slider.php:512
+#: elementor/widgets/pro/salespage-testimonial-slider.php:642
+#: elementor/widgets/pro/salespage-testimonial.php:331
+msgctxt "Border Control"
+msgid "Groove"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:296
+msgctxt "Border Title Control"
+msgid "Border Width - Title"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:312
+msgid "Border Color - Title"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:324
+msgid "Border Left Color"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:337
+msgctxt "Border Details Control"
+msgid "Border Width - Details"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:352
+msgid "Border Color - Details"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:416
+msgid "Active Background"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:439
+#: elementor/widgets/pro/salespage-accordion.php:492
+#: elementor/widgets/pro/salespage-accordion.php:568
+#: elementor/widgets/pro/salespage-testimonial-slider.php:334
+msgid "Active Color"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:473
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:540
+msgid "Start"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-accordion.php:544
+msgid "End"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:48
+msgid "SP Button"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:94
+msgid "Extra Small"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:95
+msgid "Small"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:96
+msgid "Medium"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:97
+msgid "Large"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:98
+msgid "Extra Large"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:126
+msgid "Info"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:127
+msgid "Success"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:128
+msgid "Warning"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:129
+msgid "Danger"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:140
+#: elementor/widgets/pro/salespage-button.php:141
+#: elementor/widgets/pro/salespage-pricing-table.php:134
+#: elementor/widgets/pro/salespage-pricing-table.php:135
+#: elementor/widgets/pro/salespage-pricing-table.php:261
+#: elementor/widgets/pro/salespage-pricing-table.php:262
+msgid "Click here"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:148
+msgid "Link Type"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:153
+msgid "Modal Popup"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:154
+msgid "Video Popup"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:170
+#: elementor/widgets/pro/salespage-icon-box.php:205
+#: elementor/widgets/pro/salespage-image-box.php:122
+#: elementor/widgets/pro/salespage-number-box.php:144
+#: elementor/widgets/pro/salespage-portfolio-slider.php:84
+#: elementor/widgets/pro/salespage-pricing-table.php:145
+#: elementor/widgets/pro/salespage-pricing-table.php:271
+#: elementor/widgets/pro/salespage-testimonial-slider.php:177
+#: elementor/widgets/pro/salespage-testimonial.php:182
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:188
+msgid "http://www.youtube.com/watch?v=7HKoqNJtMTQ"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:194
+msgid "Select Popup"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:261
+msgid "Before"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:262
+msgid "After"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:299
+#: elementor/widgets/pro/salespage-coupon.php:131
+msgid "Button ID"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:305
+#: elementor/widgets/pro/salespage-coupon.php:137
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:306
+#: elementor/widgets/pro/salespage-coupon.php:138
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows <code>A-z 0-9</code> & underscore chars "
+"without spaces."
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:405
+#: elementor/widgets/pro/salespage-coupon.php:233
+#: elementor/widgets/pro/salespage-icon-box.php:310
+#: elementor/widgets/pro/salespage-number-box.php:229
+#: elementor/widgets/pro/salespage-pricing-table.php:344
+#: elementor/widgets/pro/salespage-testimonial-slider.php:453
+#: elementor/widgets/pro/salespage-testimonial-slider.php:535
+#: elementor/widgets/pro/salespage-testimonial-slider.php:668
+#: elementor/widgets/pro/salespage-testimonial.php:357
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-button.php:419
+#: elementor/widgets/pro/salespage-coupon.php:247
+#: elementor/widgets/pro/salespage-icon-box.php:388
+#: elementor/widgets/pro/salespage-image-box.php:222
+#: elementor/widgets/pro/salespage-number-box.php:307
+msgid "Hover Animation"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-coupon.php:34
+msgid "SP Coupon Code"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-coupon.php:58
+#: elementor/widgets/pro/salespage-coupon.php:149
+msgid "Coupon Code"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-coupon.php:67
+#: elementor/widgets/pro/salespage-coupon.php:68
+msgid "SPAEL20"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:37
+msgid "SP Icon Box"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:128
+msgid "Arragement"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:131
+msgid "Icon then details"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:132
+msgid "Details then icon"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:142
+msgid "Responsive View"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:145
+msgid "Default - (Centered)"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:146
+msgid "Same as desktop"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:156
+#: elementor/widgets/pro/salespage-image-box.php:87
+#: elementor/widgets/pro/salespage-number-box.php:109
+msgid "Title & Description"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:162
+#: elementor/widgets/pro/salespage-image-box.php:93
+#: elementor/widgets/pro/salespage-number-box.php:115
+msgid "Enter your title"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:190
+#: elementor/widgets/pro/salespage-image-box.php:107
+#: elementor/widgets/pro/salespage-number-box.php:129
+msgid "Enter your description"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:334
+#: elementor/widgets/pro/salespage-icon-box.php:372
+#: elementor/widgets/pro/salespage-number-box.php:253
+#: elementor/widgets/pro/salespage-number-box.php:291
+msgid "Secondary Color"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:359
+#: elementor/widgets/pro/salespage-number-box.php:278
+msgid "Primary Color"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:460
+#: elementor/widgets/pro/salespage-number-box.php:382
+msgid "Rotate"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:475
+#: elementor/widgets/pro/salespage-number-box.php:397
+msgid "Border Width"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:625
+#: elementor/widgets/pro/salespage-number-box.php:544
+msgid "Step"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-icon-box.php:664
+#: elementor/widgets/pro/salespage-image-box.php:530
+#: elementor/widgets/pro/salespage-number-box.php:583
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-image-box.php:26
+msgid "SP Image Box"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-image-box.php:64
+#: elementor/widgets/pro/salespage-portfolio-slider.php:71
+#: elementor/widgets/pro/salespage-testimonial-slider.php:131
+#: elementor/widgets/pro/salespage-testimonial.php:133
+msgid "Choose Image"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-image-box.php:130
+#: elementor/widgets/pro/salespage-testimonial.php:189
+msgid "Image Position"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-image-box.php:246
+#: elementor/widgets/pro/salespage-image-box.php:332
+msgid "Opacity"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-image-box.php:264
+msgid "Transition Duration"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-number-box.php:37
+msgid "SP Number Box"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-number-box.php:199
+msgid "Number Circle Style"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-portfolio-slider.php:26
+msgid "SP Portfolio Carousel"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-portfolio-slider.php:52
+msgid "Carousel Images"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-portfolio-slider.php:63
+msgid "Slide #"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-portfolio-slider.php:94
+msgid "Carousel Items"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-portfolio-slider.php:99
+msgid "Slide #1"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-portfolio-slider.php:104
+msgid "Slide #2"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:29
+msgid "SP Pricing Table"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:53
+msgid "Options A"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:91
+#: elementor/widgets/pro/salespage-pricing-table.php:217
+msgid "Offer list"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:102
+#: elementor/widgets/pro/salespage-pricing-table.php:228
+msgid "Offer lists"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:107
+#: elementor/widgets/pro/salespage-pricing-table.php:233
+msgid "Offer list #1"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:110
+#: elementor/widgets/pro/salespage-pricing-table.php:236
+msgid "Offer list #2"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:165
+#: elementor/widgets/pro/salespage-pricing-table.php:292
+msgid "Endwords"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:179
+msgid "Options B"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:196
+msgid "$15"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:294
+msgid "Get a 10-Day Free Trial"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:304
+msgid "Overall Styling"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:334
+msgid "BG Color"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:354
+msgid "Max Width"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:517
+msgid "Offer Lists"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:637
+msgid "Endword"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:673
+msgid "Arrow Alternative"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:675
+msgid "Off"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-table.php:676
+msgid "On"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:26
+msgid "Pricing Switcher"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:52
+msgid "Title & Subtitle"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:58
+msgid "Option A Title"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:60
+msgid "Monthly"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:67
+msgid "Option A Subitle"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:69
+msgid "(Save 60%)"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:76
+msgid "Option B Title"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:78
+msgid "Yearly"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:85
+msgid "Option B Subitle"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:87
+msgid "(Save 80%)"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-pricing-toggle.php:129
+msgid "Subitle Color"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:47
+msgid "SP Testimonial Slider"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:104
+msgid "Source"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:109
+msgid "Testimonial Posts"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:160
+#: elementor/widgets/pro/salespage-testimonial-slider.php:796
+msgid "Designation"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:190
+#: elementor/widgets/pro/salespage-testimonial-slider.php:198
+#: elementor/widgets/pro/salespage-testimonial-slider.php:206
+msgid "John Doe"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:191
+#: elementor/widgets/pro/salespage-testimonial-slider.php:199
+#: elementor/widgets/pro/salespage-testimonial-slider.php:207
+msgid "CEO"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:234
+msgid "Slides To Show"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:281
+msgid "Additional Options"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:288
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:301
+#: elementor/widgets/pro/salespage-testimonial-slider.php:317
+msgid "Dots"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:347
+msgid "Wrapper"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:355
+msgid "Per Slide Spacing"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:359
+msgid "5px"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:360
+msgid "10px"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:361
+msgid "15px"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:362
+msgid "20px"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:363
+msgid "25px"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:364
+msgid "30px"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:365
+msgid "35px"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:366
+msgid "40px"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:441
+#: elementor/widgets/pro/salespage-testimonial-slider.php:523
+#: elementor/widgets/pro/salespage-testimonial-slider.php:653
+#: elementor/widgets/pro/salespage-testimonial.php:342
+msgctxt "Border Control"
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:720
+#: elementor/widgets/pro/salespage-testimonial.php:460
+msgid "Spacing Bottom"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:859
+msgid "Star"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial-slider.php:1093
+msgid "Sorry! No testimonial found."
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial.php:47
+msgid "SP Testimonial"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial.php:117
+msgid "Quote Image - Start"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial.php:125
+msgid "Quote Image - End"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial.php:195
+msgid "Aside"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial.php:380
+msgid "Quote Start - Margin"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial.php:392
+msgid "Quote Start - Padding"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial.php:404
+msgid "Quote End - Margin"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-testimonial.php:416
+msgid "Quote End - Padding"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-video-gallery.php:26
+msgid "SP Video Gallery"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-video-gallery.php:52
+#: elementor/widgets/pro/salespage-video-gallery.php:94
+msgid "Videos"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-video-gallery.php:63
+msgid "Video #"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-video-gallery.php:74
+msgid "Youtube"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-video-gallery.php:75
+msgid "Vimeo"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-video-gallery.php:84
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-video-gallery.php:99
+msgid "Video Title #1"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-video-gallery.php:104
+msgid "Video Title #2"
+msgstr ""
+
+#: elementor/widgets/pro/salespage-video-gallery.php:160
+msgid "Active Icon Color"
+msgstr ""
+
+#: sales-page-addon.php:226
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: sales-page-addon.php:228
+msgid "Elementor or Beaver"
+msgstr ""
+
+#. translators: 1: Plugin name
+#: sales-page-addon.php:249
+#, php-format
+msgid "Please deactivate the free version of \"%1$s\"."
+msgstr ""
+
+#: sales-page-addon.php:260
+msgid "Widgets Settings Saved."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Sales Page Addon - Elementor & Beaver Builder"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://nicheaddons.com/demos/sales-page/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Generate more leads for your landing page with this Sales Page Addon. Yes, "
+"get ready to boost all your businesses and increase your profits. This Sales "
+"Page Addon gives you a landing page, which is well optimized for "
+"performance, and sales page friendly design most importantly, just a single "
+"click is more than enough to import our Sales Page Addon Templates."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "NicheAddons"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://nicheaddons.com/"
+msgstr ""
